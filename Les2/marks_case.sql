@@ -1,0 +1,12 @@
+USE seminar2;
+SELECT total_marks, grade,
+CASE grade
+    WHEN 'A++' THEN 'DISTINCTION'
+    WHEN 'A+' THEN 'FIRST CLASS'
+    WHEN 'A' THEN 'FIRST CLASS'
+    WHEN 'B+' THEN 'SECOND CLASS'
+    WHEN 'B' THEN 'SECOND CLASS'
+    WHEN 'C+' THEN 'THIRD CLASS'
+    ELSE 'FAIL'
+END AS class
+FROM marks;
