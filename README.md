@@ -1,5 +1,8 @@
 # Курс Базы данных и SQL
 
+## [Шпаргалка по MySQL](https://github.com/Alexey913/MySQL/blob/main/MySQL%20%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0.xlsx)
+## [Курс Введение в Базы данных](https://github.com/Alexey913/DataBase.git)
+
 ## [Семинар 1 - Установка СУБД, подключение к БД, просмотр и создание таблиц](Les1)
 Работа с User Interface
 ## [Домашнее задние 1](https://github.com/Alexey913/MySQL/blob/main/Les1/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B%20%D0%BA%20%D0%94%D0%971.pdf)
